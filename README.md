@@ -3,7 +3,7 @@ this is just a hub for all the skins i use, i'll try to keep it as up to date as
 
 #
 <p align="center">
-    · <a href="universal/universal.md">most used skins</a> ·<br>
+    · <a href="skins/favorites.md">most used skins</a> ·<br>
 </p>
 
 
